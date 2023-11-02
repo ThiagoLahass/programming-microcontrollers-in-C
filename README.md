@@ -1,1 +1,1 @@
-# programming-microcontrollers-ARM-in-C
+# programming-microcontrollers-in-C
